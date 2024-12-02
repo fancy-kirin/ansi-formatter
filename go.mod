@@ -1,3 +1,3 @@
-module github.com/min-seonnie/ansi-formatter
+module github.com/fancy-kirin/ansi-formatter
 
 go 1.23.3
